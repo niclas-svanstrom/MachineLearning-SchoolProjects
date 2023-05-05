@@ -1,2 +1,6 @@
 /env
 /app.py
+/dt-demo.ipynb
+/rf-demo.ipynb
+/data/fraud.csv
+/data/Bank Customer Churn Prediction.csv
